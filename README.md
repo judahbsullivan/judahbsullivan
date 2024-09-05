@@ -1,6 +1,4 @@
-<div style="
-	display: flex;
-	">
+<div style="display: flex;">
 	<h1>
 		Hi there, I'm Judah Sullivan 
 	</h1> 
