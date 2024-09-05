@@ -1,5 +1,5 @@
 <div style="display: flex;">
-	<h1>
+	<h1 style="font-size: 200px;">
 		Hi there, I'm Judah Sullivan 
 	</h1> 
  <img  src='https://avatars.githubusercontent.com/u/159483985?v=4' alt=''/>
