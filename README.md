@@ -1,4 +1,4 @@
-# Hi there, I'm Judah Sullivan 👋 ![Profile Banner](https://avatars.githubusercontent.com/u/159483985?v=4)
+# Hi there, I'm Judah Sullivan ![Profile Banner](https://avatars.githubusercontent.com/u/159483985?v=4)
 ### 🚀 Software Engineer | 🖥️ Full Stack Developer | ⚙️ GSAP Enthusiast | ✨Animations Specialist
 
 ## 🚀 About Me
