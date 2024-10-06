@@ -52,7 +52,7 @@ Software Engineer @ [Hope Media Group](https://hopemediagroup.com)
 
 
 ## 📈 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=judahbsullivan&show_icons=true&theme=radical)
+![JudahBSullivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JudahBSullivan&theme=dark&show_icons=true)
 
 ## 🏆 Achievements
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=judahbsullivan&theme=radical)
