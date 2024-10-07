@@ -53,7 +53,7 @@ Software Engineer @ [Hope Media Group](https://hopemediagroup.com)
 
 ## 📈 GitHub Stats
 ![JudahBSullivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JudahBSullivan&theme=dark&show_icons=true)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JudahBSullivan&theme=github-dark)](https://git.io/streak-stats)
 ## 🏆 Achievements
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=judahbsullivan&theme=radical)
 
