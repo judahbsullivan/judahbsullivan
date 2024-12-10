@@ -2,9 +2,6 @@
 # Hi there, I'm Judah Sullivan 👋
 
  <div class="banner" style="display: flex; flex-gap: 10; background-color: #f0f0f0; padding: 20px; border-radius: 10px; !important">
-	<h1 style="font-size: 200px;">
-		Hi there, I'm Judah Sullivan 
-	</h1> 
  <img  src='https://avatars.githubusercontent.com/u/159483985?v=4' alt=''/>
 
 **🚀 Software Engineer | 🖥️ Full Stack Developer | ⚙️ GSAP Enthusiast | ✨ Animations Specialist**
