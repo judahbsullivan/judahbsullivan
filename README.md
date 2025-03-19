@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a deep lov
 
 ## Current Position
 
-Software Engineer @ [Hope Media Group](https://hopemediagroup.com)
+Software Engineer I @ [Hope Media Group](https://hopemediagroup.com)
 
 ## Languages and Tools
 
