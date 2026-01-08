@@ -85,7 +85,8 @@ Currently, I’m building **Zenith** — a modern framework exploring a new bala
 
 ## 📊 GitHub Stats
 
-https://githubcard.com/judahbsullivan.svg?d=wjHKR2NL
+
+![GitHub Card](https://githubcard.com/judahbsullivan.svg?d=wjHKR2NL)
 
 ---
 
