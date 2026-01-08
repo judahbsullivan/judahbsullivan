@@ -1,80 +1,116 @@
+# Judah Sullivan  
+**Frontend-First Full Stack Engineer · Framework Author · Modern Web Architect**
 
+![Judah Sullivan](https://avatars.githubusercontent.com/u/159483985?v=4)
 
-
-# Hi there, I'm Judah Sullivan 👋
-
-<div class="banner" style="display: flex; gap: 20px; align-items: center; background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
-  <img src="https://avatars.githubusercontent.com/u/159483985?v=4" alt="Judah Sullivan" width="120" style="border-radius: 50%;" />
-  <div>
-    **🚀 Frontend-First Full Stack Developer | 🖥️ Modern Web Architect | ⚡ Animation & UX Enthusiast**
-  </div>
-</div>
-
-
-## About Me
-
-I’m a passionate **software engineer and frontend-first developer** building modern, performant web experiences. I love solving complex problems, designing intuitive user interfaces, and crafting smooth, interactive animations.
-
-Currently, I’m exploring and building my **own framework, Zenith**, while working with technologies like:
-
-* **Frontend:** Next.js, Astro.js, Vue.js, React, Svelte, Tailwind CSS
-* **Backend / API:** Node.js, Prisma, Directus
-* **Animation & UX:** GSAP, Barba.js, Three.js
-* **Infrastructure & DevOps:** Docker, AWS, Git
-
-I focus on creating **fast, scalable, and visually engaging web applications**, with a developer-first mindset that balances clean architecture with user experience.
+**Building fast, expressive, developer-first web systems — from UI to compiler.**
 
 ---
 
-## Current Focus
+## 🚀 About Me
 
-* **Open to Work:** Senior Frontend / Full Stack positions
-* **Building:** [Zenith Framework](https://github.com/judahbsullivan/zenith) – a runtime file-based routing system for SPA-style navigation with smooth page transitions and modern developer ergonomics
+I’m a **frontend-first full stack engineer** with a strong focus on **architecture, performance, and developer experience**. I specialize in building modern web platforms that feel intuitive to use and powerful to extend — whether that’s an application, a design system, or an entire framework.
 
----
+I enjoy working close to the metal when it matters (routing, compilers, rendering, DX tooling), while still delivering **polished UI, motion, and interaction** at the surface.
 
-## Languages & Tools
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge\&logo=astro\&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge\&logo=vuedotjs\&logoColor=%234FC08D)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge\&logo=svelte\&logoColor=white)
-![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge\&logo=three.js\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge\&logo=Prisma\&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+Currently, I’m building **Zenith** — a modern framework exploring a new balance between **static HTML ownership**, **runtime interactivity**, and **zero-JS by default ergonomics**.
 
 ---
 
-## GitHub Stats
+## 🧠 What I Focus On
 
-![JudahBSullivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JudahBSullivan\&theme=dark\&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JudahBSullivan\&theme=github-dark)](https://git.io/streak-stats)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=judahbsullivan\&theme=radical)
+- **Framework & Compiler Design**  
+  File-based routing, AST parsing, HTML-first authoring, runtime hooks, SSG/SSR/client rendering models
 
----
+- **Frontend Architecture**  
+  Scalable component systems, transitions, state boundaries, animation-driven UX
 
-## Connect with Me
+- **Performance & DX**  
+  Minimal JavaScript, fast builds, predictable abstractions, clean APIs
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/judahbsullivan)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge\&logo=YouTube\&logoColor=white)](https://youtube.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge\&logo=Instagram\&logoColor=white)](https://instagram.com/)
-
----
-
-## Support My Work
-
-If you enjoy my projects, you can support me:
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-yellow?style=for-the-badge\&logo=buymeacoffee)](https://buymeacoffee.com/judahsullivan)
-[![Sponsor Judah Sullivan](https://img.shields.io/badge/Sponsor-Judah%20Sullivan-blue?style=flat-square\&logo=github)](https://github.com/sponsors/judahbsullivan)
+- **End-to-End Ownership**  
+  From idea → implementation → tooling → documentation → release
 
 ---
 
+## ⚡ Current Work
+
+### Zenith Framework
+
+![Zenith Logo](https://github.com/zenithbuild/zenith-core/blob/main/assets/logos/C691FF58-ED13-4E8D-B6A3-02E835849340.PNG?raw=true)
+
+**Zenith** is an in-progress framework focused on:
+
+- HTML-first, file-owned documents  
+- Runtime hooks without mandatory JS bundles  
+- File-based routing with shared layouts  
+- Smooth SPA-style navigation and transitions  
+- SSG, SSR, and client rendering — opt-in, not forced  
+- Compiler-driven ergonomics instead of heavy runtime abstractions  
+
+> Expressive HTML + compiler intelligence + modern DX.
+
+**Repository:** https://github.com/zenithbuild  
+**Status:** Actively building (compiler, router, runtime, CLI planned)
+
+---
+
+## 🛠️ Languages & Tools
+
+### Core
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-2C2052?style=for-the-badge&logo=astro&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Svelte](https://img.shields.io/badge/Svelte-f1413d?style=for-the-badge&logo=svelte&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Animation & UX
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+![Barba.js](https://img.shields.io/badge/Barba.js-000000?style=for-the-badge)
+
+### Backend / Infrastructure
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Directus](https://img.shields.io/badge/Directus-263238?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JudahBSullivan&show_icons=true&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JudahBSullivan&theme=github-dark&hide_border=true)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JudahBSullivan&theme=darkhub&no-frame=true&row=1&column=6)
+
+---
+
+## 🤝 Open To
+
+- Senior Frontend / Full Stack roles  
+- Platform, DX, or framework-adjacent teams  
+- Product-driven engineering with real ownership  
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/judahbsullivan)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/JudahBSullivan)
+
+---
+
+## ☕ Support My Work
+
+If you enjoy my projects and want to support independent development:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/judahsullivan)  
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-24292e?style=for-the-badge&logo=github)](https://github.com/sponsors/judahbsullivan)
