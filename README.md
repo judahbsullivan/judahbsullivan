@@ -85,13 +85,8 @@ Currently, I’m building **Zenith** — a modern framework exploring a new bala
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=judahbsullivan&show_icons=true&theme=github_dark&hide_border=true)
+https://githubcard.com/judahbsullivan.svg?d=wjHKR2NL
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=judahbsullivan&theme=github-dark&hide_border=true)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=judahbsullivan&theme=darkhub&no-frame=true&row=1&column=6)
-
-![Judah’s GitHub stats](https://github-readme-stats.vercel.app/api?username=judahbsullivan&show_icons=true&theme=radical)
 ---
 
 ## 🤝 Open To
